@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>142871462469-gkpu2qqkn8nj3gq31nqsieaj52etp078.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.142871462469-gkpu2qqkn8nj3gq31nqsieaj52etp078</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZ0gLqK7160O04ToUmU5y1Rq3J6zFdu5o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>142871462469</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CLC.TrackTimes-Widhalm</string>
+	<key>PROJECT_ID</key>
+	<string>showsrealtimedatabase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>showsrealtimedatabase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:142871462469:ios:a4e82ce63dc6891f97192c</string>
+	<key>DATABASE_URL</key>
+	<string>https://showsrealtimedatabase-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
